@@ -2,7 +2,7 @@
 
 If you have any questions, please ask us!
 
-##Getting the code
+## Getting the code
 
 1. Open the terminal!
 2. Type in 'git clone https://github.com/mayajoyiwabuchi/versionControl.git'
