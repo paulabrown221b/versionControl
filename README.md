@@ -12,3 +12,6 @@ If you have any questions, please ask us!
 
 ### If Jupyter Lab does not work, try binder!
 
+## How to use our spectacular code!
+
+## We'd love your advice. Here is how you can you help!
